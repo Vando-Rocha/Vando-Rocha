@@ -1,62 +1,42 @@
-<br clear="both">
+# Olá, Eu sou Vando Rocha! 👋
 
-<h2 align="center">Olá 👋! Eu me chamo Vando!</h2>
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro contribuir para projetos de código aberto. Aqui você encontrará uma variedade de repositórios que refletem meu aprendizado, interesses e contribuições.
 
-## Sobre mim!
+## 🚀 Sobre Mim
 
-Sou um profissional qualificado, com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em Administração de Banco de Dados. 
-Como Analista de Dados especializado em Business Intelligence (BI), tenho experiência com a criação de painéis e dashboards.
+- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web e aplicativos móveis.
+- 🌱 Estou sempre aprendendo novas tecnologias e ferramentas para aprimorar minhas habilidades.
+- 👯 Estou aberto a colaborar em projetos interessantes e inovadores.
+- 💬 Pergunte-me sobre desenvolvimento web, Python, JavaScript, e outras tecnologias.
+- 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/vando-rocha/)
 
-### Algumas tecnologias que uso
+## 📊 Minhas Estatísticas no GitHub
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
-</div>
+![Vando Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vando-Rocha&show_icons=true&theme=radical)
 
-### Fale comigo:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vando-Rocha&layout=compact&theme=radical)
 
-<div align="left">
-  <a href="mailto:vandorcdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vanderlandio-rocha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5581993808425" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+## 🛠️ Tecnologias e Ferramentas
 
-###
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vando-Rocha)](https://github.com/Vando-Rocha/github-readme-stats)
+- **Linguagens**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+- **Frameworks**: ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+- **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-Visitas
-<p align="left">
-  <img alingn="center" src="https://profile-counter.glitch.me/Vando-Rocha/count.svg" />
-</p>
+## 🌐 Projetos
 
+Aqui estão alguns dos meus projetos recentes:
 
+1. **[Projeto A](https://github.com/Vando-Rocha/Projeto-A)**: Uma breve descrição do projeto A.
+2. **[Projeto B](https://github.com/Vando-Rocha/Projeto-B)**: Uma breve descrição do projeto B.
+3. **[Projeto C](https://github.com/Vando-Rocha/Projeto-C)**: Uma breve descrição do projeto C.
+
+## 🌟 Contribuições
+
+- Participo ativamente de comunidades de desenvolvedores e contribuo para projetos de código aberto.
+- Meus repositórios refletem meu comprometimento com a qualidade do código e boas práticas de desenvolvimento.
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vando-Rocha&color=blue)
