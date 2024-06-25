@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/yourimagepath/header.gif) <!-- Substitua pelo link da sua imagem animada -->
+![Header](https://github.com/Vando-Rocha/Vando-Rocha/blob/main/image/4760-179739327_medium.gif) <!-- Substitua pelo link da sua imagem animada -->
 
 # Olá, Eu sou Vando Rocha! 👋
 
