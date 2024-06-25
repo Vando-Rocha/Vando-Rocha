@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center; color: white;">
-  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="Header" style="width:100%; opacity: 0.3;">
+  <img src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="Header" style="width:50%">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Olá, Eu sou Vando Rocha! 👋</h1>
   </div>
