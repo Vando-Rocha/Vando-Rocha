@@ -2,7 +2,7 @@
 
 # Olá, Eu sou Vando Rocha! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro contribuir para projetos de código aberto. Aqui você encontrará uma variedade de repositórios que refletem meu aprendizado, interesses e contribuições.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia. Aqui você encontrará uma variedade de repositórios que refletem meu aprendizado, interesses e contribuições.
 
 ## 🚀 Sobre Mim
 
@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 - 🌱 Estou me especializando em Ciência de Dados, Machine Learning, Inteligência Artificial e Computação em Nuvem.
 - 👯 Estou aberto a colaborar em projetos interessantes e inovadores.
 - 💬 Pergunte-me sobre desenvolvimento web, Python, Java, JavaScript, Angular, Node.js, C#, SQL, PostgreSQL, Oracle, e outras tecnologias.
-- 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/vando-rocha/)
+- 📫 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/vanderlandio-rocha/)
 
 ## 📊 Minhas Estatísticas no GitHub
 
@@ -29,13 +29,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 Aqui estão alguns dos meus projetos recentes:
 
-1. **[Projeto A](https://github.com/Vando-Rocha/Projeto-A)**: Uma breve descrição do projeto A.
-2. **[Projeto B](https://github.com/Vando-Rocha/Projeto-B)**: Uma breve descrição do projeto B.
-3. **[Projeto C](https://github.com/Vando-Rocha/Projeto-C)**: Uma breve descrição do projeto C.
+1. **[Projeto A](https://github.com/Vando-Rocha/TekFlix_Streaming)**: Projeto front-end de um site de streamming de vídeo.
+2. **[Projeto B](https://github.com/Vando-Rocha/save-pet)**: API para sistemas de chamados para animais em situação de vulnerabilidade.
+3. **[Projeto C](https://github.com/Vando-Rocha/Projeto-Ada-Tech-Estatistica-no-futebol)**: Análise da Longevidade dos Técnicos no Campeonato Brasileiro de 2019.
 
 ## 🌟 Contribuições
 
-- Participo ativamente de comunidades de desenvolvedores e contribuo para projetos de código aberto.
 - Meus repositórios refletem meu comprometimento com a qualidade do código e boas práticas de desenvolvimento.
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo.
