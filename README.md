@@ -5,8 +5,6 @@
   </div>
 </div>
 
-# Olá, Eu sou Vando Rocha! 👋
-
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia. Aqui você encontrará uma variedade de repositórios que refletem meu aprendizado, interesses e contribuições.
 
 ## 🚀 Sobre Mim
