@@ -1,4 +1,9 @@
-![Header](https://github.com/Vando-Rocha/Vando-Rocha/blob/main/image/4760-179739327_medium.gif) <!-- Substitua pelo link da sua imagem animada -->
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://github.com/Vando-Rocha/Vando-Rocha/blob/main/image/4760-179739327_medium.gif" alt="Header" style="width:100%; opacity: 0.3;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1>Olá, Eu sou Vando Rocha! 👋</h1>
+  </div>
+</div>
 
 # Olá, Eu sou Vando Rocha! 👋
 
